@@ -1,5 +1,5 @@
-pull : commit
-	git pull
+push : commit
+	git push
 
 commit : add
 	git commit -m "auto"
