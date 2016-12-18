@@ -1,6 +1,6 @@
 CXX=g++
 CXXFLAGS=-W -Wall -ansi -pedantic
-LDFLAGS=
+LDXXFLAGS=
 EXEC=a.out
 SRC= $(wildcart *.c)
 OBJ= $(SRC:.c=.o)
