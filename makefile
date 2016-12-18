@@ -1,8 +1,8 @@
 pull : commit
-  git pull
+	git pull
 
 commit : add
-  git commit -m ""
+	git commit -m ""
 
 add : 
-  git add -A
+	git add -A
